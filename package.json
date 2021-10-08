@@ -1,0 +1,17 @@
+{
+  "name": "onlinedoctor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css--watch"
+  },
+  "author": "Monark Mehta",
+  
+  "license": "ISC"
+}
